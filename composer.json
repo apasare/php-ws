@@ -1,0 +1,9 @@
+{
+    "name": "simplecoding/phpwebsocket",
+    "require": {
+        "psr/log": "1.0.0"
+    },
+    "autoload": {
+        "psr-4": {"PHPWebSocket\\": "src/PHPWebSocket"}
+    }
+}
